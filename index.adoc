@@ -1,0 +1,1 @@
+image:./HO_Cook_Headstone.jpg[link="./HOC.html"]
